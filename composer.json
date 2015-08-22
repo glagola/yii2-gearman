@@ -1,8 +1,8 @@
 {
-    "name": "filsh/yii2-gearman",
+    "name": "aracoool/yii2-gearman",
     "description": "Gearman handler for PHP",
     "keywords": ["yii", "extension"],
-    "homepage": "https://github.com/filsh/yii2-gearman",
+    "homepage": "https://github.com/aracoool/yii2-gearman",
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
