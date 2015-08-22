@@ -7,7 +7,7 @@
     "license": "MIT",
     "support": {
         "email": "imaliy.filsh@gmail.com",
-        "source": "https://github.com/filsh/yii2-gearman"
+        "source": "https://github.com/aracoool/yii2-gearman"
     },
     "authors": [
         {
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "filsh\\yii2\\gearman\\": "src"
+            "aracoool\\yii2\\gearman\\": "src"
         }
     }
 }
