@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "aracoool\\yii2\\gearman\\": "src"
+            "filsh\\yii2\\gearman\\": "src"
         }
     }
 }
