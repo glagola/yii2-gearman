@@ -11,7 +11,7 @@ It is recommended that you install the Gearman library [through composer](http:/
 ```json
 {
     "require": {
-       "filsh/yii2-gearman": "dev-master"
+       "aracoool/yii2-gearman": "~1.0"
     }
 }
 ```
